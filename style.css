@@ -1,0 +1,23 @@
+.pics{
+    
+    height: 100px;
+    width: 100px;
+}
+
+.column{
+
+    width: 30%;
+}
+
+.row{
+width: 30%;
+    float:left;
+}
+.row1{
+padding-top:  1px;
+width: 100%;    
+}
+.row2{
+    padding-top: 150px;
+   
+}
